@@ -1,0 +1,5 @@
+C:/Task4C/cmake-build-debug/CMakeFiles/Task4C.dir
+C:/Task4C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Task4C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Task4C/cmake-build-debug/CMakeFiles/Task4C_autogen_timestamp_deps.dir
+C:/Task4C/cmake-build-debug/CMakeFiles/Task4C_autogen.dir
